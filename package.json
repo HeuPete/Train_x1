@@ -1,0 +1,12 @@
+{
+  "name": "train1",
+  "version": "0.0.0",
+  "description": "Erstes Trainings Projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Es ist kein Test vereinbart\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "author": "Peter",
+  "license": "BSD-2-Clause"
+}
