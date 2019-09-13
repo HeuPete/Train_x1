@@ -7,7 +7,7 @@ const server = http.createServer(function (req, res) {   // 2 - creating server
         res.writeHead(200, { 'Content-Type': 'text/html' });
 
         // set response content
-        res.write('<html><body><p>Das ist meine Home Plsagels.</p></body></html>');
+        res.write('<html><body><p>Das ist meine Home Page.</p></body></html>');
         res.end();
 
 });
